@@ -1,0 +1,13 @@
+C:\Users\atana\source\repos\RabbitMQ_queue_testing\bin\Debug\netcoreapp3.1\RabbitMQ_queue_testing.exe
+C:\Users\atana\source\repos\RabbitMQ_queue_testing\bin\Debug\netcoreapp3.1\RabbitMQ_queue_testing.deps.json
+C:\Users\atana\source\repos\RabbitMQ_queue_testing\bin\Debug\netcoreapp3.1\RabbitMQ_queue_testing.runtimeconfig.json
+C:\Users\atana\source\repos\RabbitMQ_queue_testing\bin\Debug\netcoreapp3.1\RabbitMQ_queue_testing.runtimeconfig.dev.json
+C:\Users\atana\source\repos\RabbitMQ_queue_testing\bin\Debug\netcoreapp3.1\RabbitMQ_queue_testing.dll
+C:\Users\atana\source\repos\RabbitMQ_queue_testing\bin\Debug\netcoreapp3.1\RabbitMQ_queue_testing.pdb
+C:\Users\atana\source\repos\RabbitMQ_queue_testing\obj\Debug\netcoreapp3.1\RabbitMQ_queue_testing.csprojAssemblyReference.cache
+C:\Users\atana\source\repos\RabbitMQ_queue_testing\obj\Debug\netcoreapp3.1\RabbitMQ_queue_testing.csproj.CoreCompileInputs.cache
+C:\Users\atana\source\repos\RabbitMQ_queue_testing\obj\Debug\netcoreapp3.1\RabbitMQ_queue_testing.AssemblyInfoInputs.cache
+C:\Users\atana\source\repos\RabbitMQ_queue_testing\obj\Debug\netcoreapp3.1\RabbitMQ_queue_testing.AssemblyInfo.cs
+C:\Users\atana\source\repos\RabbitMQ_queue_testing\obj\Debug\netcoreapp3.1\RabbitMQ_queue_testing.dll
+C:\Users\atana\source\repos\RabbitMQ_queue_testing\obj\Debug\netcoreapp3.1\RabbitMQ_queue_testing.pdb
+C:\Users\atana\source\repos\RabbitMQ_queue_testing\obj\Debug\netcoreapp3.1\RabbitMQ_queue_testing.genruntimeconfig.cache
